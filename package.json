@@ -1,0 +1,19 @@
+{
+  "name": "im-a-mess",
+  "version": "1.0.0",
+  "description": "please stop asking me for a description!",
+  "main": "index.js",
+  "scripts": {
+    "test": "hah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realalexhomer/imamess.git"
+  },
+  "author": "alex homer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realalexhomer/imamess/issues"
+  },
+  "homepage": "https://github.com/realalexhomer/imamess#readme"
+}
