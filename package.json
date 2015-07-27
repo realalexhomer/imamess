@@ -2,9 +2,10 @@
   "name": "im-a-mess",
   "version": "1.0.0",
   "description": "please stop asking me for a description!",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "hah"
+    "test": "hah",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/realalexhomer/imamess/issues"
   },
-  "homepage": "https://github.com/realalexhomer/imamess#readme"
+  "homepage": "https://github.com/realalexhomer/imamess#readme",
+  "dependencies": {
+    "express": "^4.13.1",
+    "mongoose": "^4.1.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-express-server": "^0.5.1"
+  }
 }
